@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@500&display=swap');
+@import url("banner.css");
+@import url("buttons.css");
+@import url("cards.css");
+@import url("footer.css");
+
+div {
+  background-color: white;
+  text-align: center;
+  padding: 24px;
+  width: 70%;
+  margin: 16px auto;
+  border-radius: 6px;
+  box-shadow: 1px 1px 5px 2px #000000b5;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Arimo', sans-serif;
+  margin: 0;
+  background-color: white;
+  
+
+}
+
+h1, h2, h3 {
+  font-family: 'Arimo', cursive;
+  font-size: "7";
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+

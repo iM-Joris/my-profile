@@ -1,0 +1,12 @@
+#banner {
+  height: 100vh;
+  background-image: linear-gradient(100deg, rgba(196,196,196,0.402258) 0%, rgba(62,62,62,0.6671043417366946) 0%), url(../images/paris.jpeg);
+  background-size: cover;
+  background-position: top;
+  color:  white;
+  display:  flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: "5";
+}
